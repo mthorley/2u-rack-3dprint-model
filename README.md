@@ -7,7 +7,7 @@ The models are based on the excellent [Thingiverse model](https://www.thingivers
 * Increase height for Arduino Mega frame to support shields
 * New tray to support OLED mounting
 
-***show image of full 2U rack***
+![Rack](images/2u-rack.jpg)
 
 ## How To Use
 * Install OpenSCAD, extend models and export STL's, or
@@ -52,6 +52,9 @@ device_length = 101.6;
 */
 arduino_shield = true;
 ```
+
+### Build Out
+![BuildOut](images/rack-mount-mega-oled.jpg)
 
 ## Future Work
 
